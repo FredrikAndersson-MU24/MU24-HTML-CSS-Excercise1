@@ -1,0 +1,43 @@
+html {
+  background-color: rgb(67, 67, 67);
+  color: antiquewhite;
+}
+
+.span {
+  font-style: italic;
+}
+
+.ol {
+  color: antiquewhite;
+  background-color: rgb(67, 67, 67);
+  border: solid black 4px;
+  padding: 25px;
+  margin: 15px;
+}
+
+.ul {
+  color: antiquewhite;
+  background-color: rgb(67, 67, 67);
+  margin: 10px;
+  border: solid 4px black;
+  border-radius: 10px;
+}
+
+.p1 {
+  color: wheat;
+}
+
+.h3-p {
+}
+
+a:link {
+  color: antiquewhite;
+}
+
+a:hover {
+  color: lightblue;
+}
+
+a:visited {
+  color: mediumslateblue;
+}
